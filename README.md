@@ -1,0 +1,2 @@
+# SchoolApp
+School Management System
